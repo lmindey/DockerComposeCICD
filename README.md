@@ -1,2 +1,1 @@
-# DockerComposeCICD
-migrating the GITHUB Repos
+# Docker-Compose-CI-CD
